@@ -13,7 +13,7 @@
         {
             "icon": "smart-display",
             "label": "TV en Vivo",
-            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
+            "data": "http://pinkybu.myartsonline.com/vic.m3u"
         },
         {
             "icon": "movie",
