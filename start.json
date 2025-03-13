@@ -1,5 +1,5 @@
 {
     "name": "Vicflix",
     "version": "1.0.2",
-    "parameter": "menu:https://benzac-de.github.io/msx/data/menu.json"
+    "parameter": "menu:http://pinkybu.myartsonline.com/vic.m3u"
 }
