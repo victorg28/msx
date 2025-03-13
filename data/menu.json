@@ -1,1 +1,29 @@
-
+{
+    "headline": "Vicflix",
+    "menu": [
+        {
+            "icon": "info",
+            "label": "Bienbenidos",
+            "data": "https://benzac-de.github.io/msx/data/welcome.json"
+        },
+        {
+            "type": "separator",
+            "label": "Base"
+        },
+        {
+            "icon": "smart-display",
+            "label": "TV en Vivo",
+            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
+        },
+        {
+            "icon": "movie",
+            "label": "Peliculas",
+            "data": "https://benzac-de.github.io/msx/data/base/audios.json"
+        },
+        {
+            "icon": "movie",
+            "label": "Series",
+            "data": "https://benzac-de.github.io/msx/data/base/images.json"
+        }
+    ]
+}
